@@ -1,0 +1,17 @@
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\bin\Debug\net8.0-windows\Car Racing Game.exe
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\bin\Debug\net8.0-windows\Car Racing Game.deps.json
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\bin\Debug\net8.0-windows\Car Racing Game.runtimeconfig.json
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\bin\Debug\net8.0-windows\Car Racing Game.dll
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\bin\Debug\net8.0-windows\Car Racing Game.pdb
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\Car_Racing_Game.Form1.resources
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\Car Racing Game.csproj.GenerateResource.cache
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\Car Racing Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\Car Racing Game.AssemblyInfoInputs.cache
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\Car Racing Game.AssemblyInfo.cs
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\Car Racing Game.csproj.CoreCompileInputs.cache
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\Car Racing Game.dll
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\refint\Car Racing Game.dll
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\Car Racing Game.pdb
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\Car Racing Game.genruntimeconfig.cache
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\ref\Car Racing Game.dll
+C:\Users\sharo_mabhfnq\source\repos\Car Racing Game\Car Racing Game\obj\Debug\net8.0-windows\Car_Racing_Game.Properties.Resources.resources
